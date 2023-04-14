@@ -10,6 +10,7 @@ As of right now I'm still waiting for the PCBs to arrive, so I can't confirm it 
 
 I'll update the readme as soon they arrive.
 
+![Screenshot of the rendering of the PCB](keyboardbreakout2_framework.png)
 
 This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
