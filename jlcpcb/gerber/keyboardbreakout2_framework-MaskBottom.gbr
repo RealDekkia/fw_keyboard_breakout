@@ -1,0 +1,32 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.5)*%
+%TF.CreationDate,2023-04-14T11:36:58+02:00*%
+%TF.ProjectId,keyboardbreakout2_framework,6b657962-6f61-4726-9462-7265616b6f75,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Soldermask,Bot*%
+%TF.FilePolarity,Negative*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.5)) date 2023-04-14 11:36:58*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.700000X1.700000*%
+%ADD11O,1.700000X1.700000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,JPWR1*%
+X75500000Y-52000000D03*
+D11*
+X75500000Y-54540000D03*
+%TD*%
+D10*
+%TO.C,JUSB1*%
+X81500000Y-54525000D03*
+D11*
+X84040000Y-54525000D03*
+X86580000Y-54525000D03*
+X89120000Y-54525000D03*
+X91660000Y-54525000D03*
+%TD*%
+M02*

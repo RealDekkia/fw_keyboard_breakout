@@ -1,0 +1,4 @@
+Designator,Val,Package,Mid X,Mid Y,Rotation,Layer
+JPWR1,Conn_01x02,PinSocket_1x02_P2.54mm_Vertical,75.475,-53.25,0.0,top
+JUSB1,Conn_01x05,PinSocket_1x05_P2.54mm_Vertical,86.55,-54.55,90.0,top
+U1,10156001-051100LF,10156001-051100LF,82.563001,-43.158201,0.0,top
