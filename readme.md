@@ -6,10 +6,6 @@ This is an Adapter-PCB for the [Keyboard-Input connector](https://github.com/Fra
 
 It aims to create a more convenient way to Power up the Board compared to the small button on the PCB itself. It also has pins for a USB 2.0 connection, because why not?
 
-As of right now I'm still waiting for the PCBs to arrive, so I can't confirm it to work 100% but is far as I can tell it should be fine.
-
-I'll update the readme as soon they arrive.
-
 ![Screenshot of the rendering of the PCB](keyboardbreakout2_framework.png)
 
 This work is licensed under a
